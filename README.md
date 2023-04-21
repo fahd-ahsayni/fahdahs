@@ -1,6 +1,8 @@
 
 
-<img align="center" alt="coding mario" width="700px" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv" >
+<div style="text-align:center;">
+  <img align="center" alt="coding mario" width="100%" src="https://64.media.tumblr.com/1e59432e5fe2d7942df39fdd0223d294/9ec5a9ae5ba9f7db-ae/s1280x1920/8f45c6df3adc9f1a74b58a275b587982b5de8abc.gifv">
+</div>
 
 <h1 align="center">Hi 👋, I'm Fahd AHSAYNI</h1>
 <h3 align="center">Full Stack web / mobile developer</h3>
